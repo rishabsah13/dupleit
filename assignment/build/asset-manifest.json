@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ac67657.css",
+    "main.js": "/static/js/main.aad68c38.js",
+    "static/media/noaa-99F4mC79j1I-unsplash.jpg": "/static/media/noaa-99F4mC79j1I-unsplash.dc50146e93929b131ab9.jpg",
+    "index.html": "/index.html",
+    "main.4ac67657.css.map": "/static/css/main.4ac67657.css.map",
+    "main.aad68c38.js.map": "/static/js/main.aad68c38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac67657.css",
+    "static/js/main.aad68c38.js"
+  ]
+}
